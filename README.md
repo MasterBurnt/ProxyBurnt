@@ -1,19 +1,21 @@
 # ProxyBurnt
 You can get proxies
+<br/>
 A-http 
+<br/>
 B-https
+<br/>
 C-socks4
+<br/>
 D-socks5
- for free
 
-<pre>
- MᵃˢᵗᵉʳBᵘʳⁿᵗ  
+<pre>  
  ____                      ____                   _
 |  _ \ _ __ _____  ___   _| __ ) _   _ _ __ _ __ | |_
 | |_) | '__/ _ \ \/ / | | |  _ \| | | | '__| '_ \| __|
 |  __/| | | (_) >  <| |_| | |_) | |_| | |  | | | | |_
 |_|   |_|  \___/_/\_\\__, |____/ \__,_|_|  |_| |_|\__|
-                     |___/                                                                                       
+             MᵃˢᵗᵉʳBᵘʳⁿᵗ |___/                                                                                       
 </pre>
 [![Python](https://img.shields.io/badge/language-Ruby-Green.svg)](https://www.python.org)
 
