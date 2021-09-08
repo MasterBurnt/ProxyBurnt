@@ -1,4 +1,8 @@
 #!/usr/bin/ruby
+#
+# @name   : ProxyBurnt
+# @url    : http://github.com/MasterBurnt
+# @author : MasterBurnt 
 require 'httparty'
 
 #color 
