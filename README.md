@@ -19,19 +19,25 @@ D-socks5
 </pre>
 [![Python](https://img.shields.io/badge/language-Ruby-Green.svg)](https://www.python.org)
 
-### Introduction-Provider site description
+### Introduction
 
-<a href="https://www.proxy-list.download/">proxy-list</a>
-<br />
+
+
 
 [+] Always up-to-date proxies 
-free proxy list is continually updated so you will always get fresh and working proxies
+free proxy list is continually updated so
+<br/>
+you will always get fresh and working proxies
 
 [+] Sorting option
+<br/>
 Easy sorting option by anonymity with a few clicks.
 
 [+] Easy exporting
+<br/>
 Get all proxies as clean plain text to your download as .txt file.
+<br />
+<a href="https://www.proxy-list.download/">Provider site</a>
 <br />
 <br />
 <img src="photo.png" />
