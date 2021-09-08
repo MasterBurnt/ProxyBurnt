@@ -17,7 +17,7 @@ You can get proxies
 |_|   |_|  \___/_/\_\\__, |____/ \__,_|_|  |_| |_|\__|
              MᵃˢᵗᵉʳBᵘʳⁿᵗ |___/                                                                                       
 </pre>
-![Python](https://img.shields.io/badge/Proxy-Burnt%.svg)
+![Python](https://img.shields.io/badge/Proxy-Burnt-Green.svg)
 
 ### Introduction
 
