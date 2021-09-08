@@ -40,7 +40,7 @@ Get all proxies as clean plain text to your download as .txt file.
 <a href="https://www.proxy-list.download/">Provider site</a>
 <br />
 <br />
-<img src="photo.png" />
+<img src="logo.png" />
 <br /> 
 
 
