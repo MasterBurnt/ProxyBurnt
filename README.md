@@ -28,7 +28,7 @@ D-socks5
 Our free proxy list is continually updated so you will always get fresh and working proxies
 
 [+] Sorting option
-Easy sorting option by country or anonymity with a few clicks.
+Easy sorting option by anonymity with a few clicks.
 
 [+] Easy exporting
 Get all proxies as clean plain text to your clipboard or download as .txt file.
