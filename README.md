@@ -25,13 +25,13 @@ D-socks5
 <br />
 
 [+] Always up-to-date proxies 
-Our free proxy list is continually updated so you will always get fresh and working proxies
+free proxy list is continually updated so you will always get fresh and working proxies
 
 [+] Sorting option
 Easy sorting option by anonymity with a few clicks.
 
 [+] Easy exporting
-Get all proxies as clean plain text to your clipboard or download as .txt file.
+Get all proxies as clean plain text to your download as .txt file.
 <br />
 <br />
 <img src="photo.png" />
