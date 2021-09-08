@@ -15,7 +15,7 @@ D-socks5
 |_|   |_|  \___/_/\_\\__, |____/ \__,_|_|  |_| |_|\__|
                      |___/                                                                                       
 </pre>
-[![Python](https://img.shields.io/badge/language-Ruby-Purple.svg)](https://www.python.org)
+[![Python](https://img.shields.io/badge/language-Ruby-Magenta.svg)](https://www.python.org)
 
 ### Introduction-Provider site description
 
