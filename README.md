@@ -2,9 +2,9 @@
 You can get proxies
 A-http 
 B-https
- C-socks4
- D-socks5
-  for free
+C-socks4
+D-socks5
+ for free
 
 <pre>
  MᵃˢᵗᵉʳBᵘʳⁿᵗ  
@@ -15,7 +15,7 @@ B-https
 |_|   |_|  \___/_/\_\\__,  |____/ \__,_|_|  |_| |_|\__|
                      |___/                                                                                       
 </pre>
-[![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
+[![Python](https://img.shields.io/badge/language-Ruby%203-blue.svg)](https://www.python.org)
 
 ### Introduction-Provider site description
 
@@ -52,6 +52,7 @@ Open the terminal and type following commands.
 <pre><code>ruby run.rb</code></pre>
 or
 <pre><code>chmod +x run.rb</code></pre>
+<pre><code>./run.rb</code></pre>
 
 In the end
 <br/>
