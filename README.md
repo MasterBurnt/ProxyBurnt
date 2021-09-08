@@ -1,13 +1,13 @@
 # ProxyBurnt
 You can get proxies
 <br/>
-A-http 
+[1] http 
 <br/>
-B-https
+[2] https
 <br/>
-C-socks4
+[3] socks4
 <br/>
-D-socks5
+[4] socks5
 
 <pre>  
  ____                      ____                   _
